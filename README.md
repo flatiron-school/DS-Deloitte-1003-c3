@@ -1,5 +1,4 @@
-# DS-Deloitte-1003-c3
-Class Repository For Deloitte AI Academy 10-03 Cohort 3
+
 
 # DS-Deloitte-1003-c3's Cohort Repository!
 
