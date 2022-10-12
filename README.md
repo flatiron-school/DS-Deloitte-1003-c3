@@ -14,7 +14,7 @@ A repository for all lecture, review, or other resources for the Flatiron School
 
 2. Then clone your fork down to your local computer
 ```
-git clone https://github.com/[yourusername]/DS-Live-091922.git
+git clone https://github.com/[yourusername]/DS-Deloitte-1003-c3.git
 ```
 
 3. Add the `/flatiron-school/` version as the `upstream` (to pull future changes)
